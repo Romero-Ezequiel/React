@@ -10,12 +10,10 @@ es el render() y dentro de este metodo vamos a renderizar el codigo que
 se va a mostrar en el navegador. Hay otros metodos pero no son obligatorios
 como el render() 
 */ 
-class App extends React.Component(){
+class App extends React.Component{
   render(){
     return(
-      <div>
         <h1>Hola Mundoooo</h1>
-      </div>
     )
   }
 }
