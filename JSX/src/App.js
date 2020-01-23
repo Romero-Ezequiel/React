@@ -5,7 +5,7 @@ import './App.css';
 
 /*Hay dos tipos de componentes, de clase y funcional
 El componente de clase se utiliza la palabra reservada class el nombre del 
-componente, luego extends esto es de herencia de POO y React.Component.
+cocdmponente, luego extends esto es de herencia de POO y React.Component.
 
 Vale aclarar que el unico metodo obligatorio en los componentes de clases
 es el render() y dentro de este metodo vamos a renderizar el codigo que
