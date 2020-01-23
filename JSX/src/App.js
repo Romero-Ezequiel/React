@@ -1,6 +1,5 @@
 //El componente app va ser el corazon de la aplicacion
 import React from 'react';
-import logo from './logo.svg';
 
 /*Hay dos tipos de componentes, de clase y funcional
 El componente de clase se utiliza la palabra reservada class el nombre del 
