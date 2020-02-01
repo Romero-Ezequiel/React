@@ -8,8 +8,7 @@ _Los ejercicios estan organizados segun el nivel de dificultad y utilice las sig
 * [Node.js](https://nodejs.org/es/) - Es un entorno de ejecución para JavaScript construido con el motor de JavaScript V8 de Chrome.
 * [Express](https://expressjs.com/es/) - Es un framework de nodejs que nos permite crear un servidor de manera muy sencilla 
 * [React](https://es.reactjs.org/) - Es una biblioteca de JavaScript para crear interfaces de usuarios 
-* [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - 
 
 ### Autor ✒️
 
-* **Ezequiel Romero** - [Romero-Ezequiel](https://github.com/Romero-Ezequiel)
+* **Alumno: Ezequiel Romero**  
