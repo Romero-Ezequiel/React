@@ -11,4 +11,4 @@ _Los ejercicios estan organizados segun el nivel de dificultad y utilice las sig
 
 ### Autor ✒️
 
-* **Alumno: Ezequiel Romero**  
+* **Ezequiel Romero**  
